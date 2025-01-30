@@ -1,1 +1,1 @@
-HOsted on vercel; planning for local hosting. 
+Hosted on vercel; planning for local hosting. 
